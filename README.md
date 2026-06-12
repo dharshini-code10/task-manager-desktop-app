@@ -8,6 +8,13 @@ This application helps users organize tasks, track deadlines, manage priorities,
 
 ![Task Manager App](screenshot.png)
 
+## 📥 Download
+
+Download the latest Windows executable from the Releases section:
+
+👉 [Download Task Manager App](https://github.com/dharshini-code10/task-manager-desktop-app/releases)
+
+No Python installation required. Download the `.exe` file and run the application.
 
 ## ✨ Features
 
