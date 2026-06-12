@@ -4,9 +4,10 @@ A modern desktop **Task Manager application** built using **Python, Tkinter, and
 
 This application helps users organize tasks, track deadlines, manage priorities, and monitor productivity through an intuitive graphical interface.
 
-## 📸 Screenshot
+## 📸 Application Preview
 
-![Task Manager App](screenshot.png)
+<img src="screenshot.png" width="700">
+
 
 ## 📥 Download
 
