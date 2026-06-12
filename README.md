@@ -153,7 +153,7 @@ Export tasks into CSV format for backup and analysis.
 
 ## 👩‍💻 Author
 
-**Divyadharshini**
+**Divyadharshini B**
 
 GitHub:  
 https://github.com/dharshini-code10
