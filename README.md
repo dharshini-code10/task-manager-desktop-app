@@ -13,7 +13,7 @@ This application helps users organize tasks, track deadlines, manage priorities,
 
 Download the latest Windows executable from the Releases section:
 
-👉 [Download Task Manager App](https://github.com/dharshini-code10/task-manager-desktop-app/releases)
+👉 [Download Task Manager App](https://github.com/divyadharshini-b-1011/task-manager-desktop-app/releases)
 
 No Python installation required. Download the `.exe` file and run the application.
 
@@ -70,7 +70,7 @@ task-manager-desktop-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/dharshini-code10/task-manager-desktop-app.git
+git clone https://github.com/divyadharshini-b-1011/task-manager-desktop-app.git
 ```
 
 ### 2. Navigate to project folder
